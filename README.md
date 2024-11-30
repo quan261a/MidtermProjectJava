@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spring web 
 ### Một số nguyên tắc phát triển phần mềm
 + Tính tái sử dụng (Reusability)
@@ -36,9 +35,3 @@ trưng bày sản phẩm, tạo giỏ hàng, Đặt hàng
 
 ### Link video demo:
 + https://www.youtube.com/watch?v=SAj5oLv836U
-=======
-Hướng dẫn chạy lab2:
-- clone về
-- Sử dụng phpMyAdmin để tạo một database
-- sử dụng lệnh mvn exec:java -Dexec.mainClass="org.example.Program" -Dexec.args="jdbc:mysql://localhost:your local host/your database?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true root ''" để chạy chương trình
->>>>>>> 07e607461b0a35c4ff9ef4ae029359c311750b6c
